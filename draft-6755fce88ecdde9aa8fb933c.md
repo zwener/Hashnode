@@ -11,7 +11,7 @@ Hoping this blog will be alive - even if it looks like Frankenstein itself…
 
 ---
 
-## What is the idea here?
+## What\`s the idea here?
 
 Even if I like the idea and the simplicity of the mentioned binary system, there is more than black and white in all our everyday. I stick to that concept except for this blog design and coffee. Coffee should always and only be black - and honestly Starbucks offers no coffee.
 
@@ -25,7 +25,7 @@ I want to share some exciting technical approaches or features out of the Micros
 ## Creativity, hm?!
 
 Yepp - because this is what all IT architects, consultants, engineers unites: finding inventive solutions.  
-And job titles of course.
+As well as job titles, too.
 
 But yes, the Microsoft universe is a big one and I am far to humble to think I know a lot of it - so what can you expect here? Some key skills of good consultants are demarcation and honesty, so I define some topics, which you will find here:
 
