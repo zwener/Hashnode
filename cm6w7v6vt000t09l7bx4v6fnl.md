@@ -4,7 +4,7 @@ seoTitle: "Remove invalid retention policy from SharePoint Online"
 datePublished: Sat Feb 08 2025 13:13:54 GMT+0000 (Coordinated Universal Time)
 cuid: cm6w7v6vt000t09l7bx4v6fnl
 slug: remove-invalid-retention-policy-from-sharepoint-online
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739020667950/ccb7c2b5-4137-42d1-9c51-91edd945bba1.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739020887573/d4be876f-7834-49de-9e43-856c93fbd6a9.png
 tags: powershell, compliance, sharepoint-online, microsoft365, retention, pnp, retentionpolicy, hold
 
 ---
